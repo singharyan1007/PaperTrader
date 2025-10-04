@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PaperTrader.Domain\PaperTrader.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
